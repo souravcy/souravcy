@@ -1,55 +1,17 @@
-# 🚀 About
+<h1 align="center">Hi 👋, I'm Sourav Chakraborty</h1>
+- 📫 How to reach me **cy.sourav@gmail.com**
 
-- 🤔 Sourav Chakraborty
-- 💬 Welcome
-- 📫 cy.sourav@gmail.com
- 
- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sourav-cy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav-cy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/cy_sourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cy_sourav" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/cy_sourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cy_sourav" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/souravcy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souravcy" height="30" width="40" /></a>
+</p>
 
-# 🛠 Tech Stack
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-> skills
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravcy&show_icons=true&locale=en" alt="souravcy" /></p>
 
-- 🔭 back-end： ![Java](https://img.shields.io/badge/-_Java-gray?style=flat-circle&logo=java)![Python](https://img.shields.io/badge/-Python-white?style=flat-circle&logo=python)
-
-- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
-
-- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
-
-- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)
-
-- 🌱 learning：![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
-
-  
-
-> Language usage
-
-<div align="center">
-    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=souravcy&theme=gruvbox_light&layout=compact"/>
-</div>
- 
-
-> Code analysis
-
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
-
-
-
-# 🔭Actions
-
-<div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=souravcy"/>
-</div>
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/souravcy/souravcy/assets/github-contribution-grid-snake.svg" />
-</div>
-
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=souravcy&theme=github"/>
-</div>
-
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/souravcy?template=classic&config.timezone=Asia%2FShanghai"/>
-</div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravcy&" alt="souravcy" /></p>
