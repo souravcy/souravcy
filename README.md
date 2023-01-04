@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sourav Chakraborty</h1>
+<h1 align="center">Hi 👋, I'm Sourav</h1>
 - 📫 How to reach me **cy.sourav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
